@@ -1,0 +1,5 @@
+This project creates a digital clock using HTML, CSS, and JavaScript. The clock displays the current time in a 12-hour format with AM/PM indicators, and it updates every second.
+
+HTML: Defines the structure with a div to display the clock.
+CSS: Styles the page with a black background and white text, centering the clock both vertically and horizontally and setting a large font size for clear visibility.
+JavaScript: Retrieves the current time, formats it to include leading zeros and AM/PM, and updates the clock display every second using setTimeout.
